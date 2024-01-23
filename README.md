@@ -14,6 +14,7 @@
 ```
 ## Build
 ```
+cd cft-shift-demo/
 mvn clean compile assembly:single
 ```
 ## Run example
