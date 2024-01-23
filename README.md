@@ -16,7 +16,7 @@
 ```
 mvn clean compile assembly:single
 ```
-# Run example
+## Run example
 ```
 java -jar target/demo-0.1-jar-with-dependencies.jar -s -a -p sample- in1.txt in2.txt
 ```
